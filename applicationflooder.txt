@@ -1,3 +1,4 @@
+REM inspired by Hak5Darren
 GUI
 DELAY 200
 STRING CMD
