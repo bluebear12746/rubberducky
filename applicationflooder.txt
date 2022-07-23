@@ -1,4 +1,4 @@
-REM inspired by Hak5Darren
+REM Application flooder script, virus to spam open applications until computer crashed - Targetted to Windows
 GUI
 DELAY 200
 STRING CMD
